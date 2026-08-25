@@ -44,7 +44,7 @@ Hi! I'm Hansraj Rathod, a motivated Computer Engineering graduate from Wadia Col
     </td>
   </tr>
   <tr>
-    <td><strong>🧪 Software Testing & Quality Assurance</strong></td>
+    <td><strong>🧪 Software Testing & QA</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
       <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
@@ -75,26 +75,26 @@ Hi! I'm Hansraj Rathod, a motivated Computer Engineering graduate from Wadia Col
 
 ## 💼 Experience & Milestones
 
-- **Frontend Web Developer Intern** @ *Oasis Infobyte* (Remote)[cite: 1] — Developed responsive, mobile-first web interfaces utilizing HTML, CSS, JavaScript, and React[cite: 1].
-- **Python Developer Intern** @ *CodSoft* (Remote)[cite: 1] — Created automated Python utilities and applications using Object-Oriented Programming (OOP) design patterns[cite: 1].
+- **Frontend Web Developer Intern** @ *Oasis Infobyte* (Remote) — Developed responsive, mobile-first web interfaces utilizing HTML, CSS, JavaScript, and React.
+- **Python Developer Intern** @ *CodSoft* (Remote) — Created automated Python utilities and applications using Object-Oriented Programming (OOP) design patterns.
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🌾 **Predicting Agri-Horticultural Commodity Prices** *(TensorFlow, Flask, Chart.js, Pandas)*[cite: 1]
-  - Built an end-to-end full-stack web app leveraging LSTM neural networks for time-series agricultural forecasting[cite: 1].
-  - Developed a Flask backend paired with an interactive frontend visualization using Chart.js[cite: 1].
-- 🎟️ **Movie Ticket Booking System** *(Java, MySQL)*[cite: 1]
-  - Engineered an online ticket management module supporting user authentication, show-timing selections, and automated cost calculation[cite: 1].
-- 🔢 **Computer Vision Number Recognition System** *(Python, OpenCV, MediaPipe)*[cite: 1]
-  - Created a real-time touchless interface tracking hand landmarks to interpret numerical values via gesture mapping[cite: 1].
+- 🌾 **Predicting Agri-Horticultural Commodity Prices** *(TensorFlow, Flask, Chart.js, Pandas)*
+  - Built an end-to-end full-stack web app leveraging LSTM neural networks for time-series agricultural forecasting.
+  - Developed a Flask backend paired with an interactive frontend visualization using Chart.js.
+- 🎟️ **Movie Ticket Booking System** *(Java, MySQL)*
+  - Engineered an online ticket management module supporting user authentication, show-timing selections, and automated cost calculation.
+- 🔢 **Computer Vision Number Recognition System** *(Python, OpenCV, MediaPipe)*
+  - Created a real-time touchless interface tracking hand landmarks to interpret numerical values via gesture mapping.
 
 ---
 
 ## 📜 Certifications
 
-- **Java Programming Beginner to Master**[cite: 1]
+- **Java Programming Beginner to Master**
 
 ---
 
