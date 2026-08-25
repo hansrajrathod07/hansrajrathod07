@@ -334,4 +334,4 @@ problem-solving skills by building practical real-world projects.
 <p align="center">
   ⚡ <i>"Code. Create. Test. Learn. Repeat."</i>
 </p>
-```
+``` .
